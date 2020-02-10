@@ -1,0 +1,27 @@
+{
+    "title": "You Don't Know JS Yet",
+    "description": "You Don't Know JS Yet",
+    "language": "en",
+    "plugins": [
+        "-fontsettings",
+        "-sharing",
+        "back-to-top-button",
+        "copy-code-button",
+        "page-toc",
+        "sitemap"
+    ],
+    "pluginsConfig": {
+        "page-toc": {
+            "selector": ".markdown-section h2, .markdown-section h3, .markdown-section h4",
+            "position": "top",
+            "showByDefault": true
+        },
+        "sitemap": {
+            "hostname": "https://djangocas.dev",
+            "pathPrefix": "/free-books/you-dont-know-js/"
+        },
+        "ga": {
+            "token": "UA-156453684-1"
+        }
+    }
+}
