@@ -23,8 +23,5 @@
     "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-copy-code-button": "0.0.2",
     "gitbook-plugin-page-toc": "^1.1.1"
-  },
-  "devDependencies": {
-    "gitbook-plugin-ga": "^2.0.0"
   }
 }
