@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/django-cas-ng/You-Dont-Know-JS#readme",
   "dependencies": {
-    "@gitbook-ng/gitbook": "^3.3.4",
+    "@gitbook-ng/gitbook": "^3.3.6",
     "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-copy-code-button": "0.0.2",
     "gitbook-plugin-page-toc": "^1.1.1"
